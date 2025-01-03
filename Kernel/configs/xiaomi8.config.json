@@ -5,7 +5,7 @@
       "repo": "https://github.com/billow96/android_kernel_xiaomi_sdm845",
       "branch": "lineage-19.1",
       "device": "equuleus",
-      "defconfig": "vendor/xiaomi/equuleus_config"
+      "defconfig": "equuleus_defconfig"
     },
     "toolchains": [
       {
