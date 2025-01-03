@@ -23,7 +23,7 @@
       {
         "name": "gcc64",
         "repo": "https://github.com/LineageOS/android_prebuilts_gcc_linux-x86_arm_arm-linux-androideabi-4.9",
-        "branch": "lineage-20.0",
+        "branch": "lineage-19.1",
         "binaryEnv": ["./bin"]
       }
     ],
